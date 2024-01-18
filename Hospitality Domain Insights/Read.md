@@ -1,3 +1,5 @@
+HOSPITALITY DOMAIN INSIGHTS
+
 Developed an in-depth Business Intelligence (BI) report for the hospitality industry, examining key performance indicators for a network of hotels in India. The report offers insights into critical areas such as average daily rates, occupancy, revenue trends, and booking habits, aiding in strategic decision-making and improving guest experiences across the Indian hotel sector.
 
 Based on the metrics identified for the hospitality domain insights project in Power BI, here are bullet points highlighting these metrics. Each point includes percentages and numbers, similar to the format provided:
